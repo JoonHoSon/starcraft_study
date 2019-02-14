@@ -27,10 +27,6 @@ $ sudo make install
 
 # 소스 다운로드
 
-```bash
-$ git clone git@github.com:JoonHoSon/starcraft_study.git starcraft
-```
-
 ## cmake 초기화
 
 ```bash
